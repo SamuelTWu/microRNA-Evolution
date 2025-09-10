@@ -14,3 +14,5 @@ Key findings:
 - Targeting efficiency emerges as an **intensive property** of seed sequence composition.  
 
 These findings suggest that miRNA repertoires evolved not simply to expand regulation, but to ensure **robustness, adaptability, and efficient network performance**. 
+
+All methods, including database sources and libraries, can be found in Methods.pdf
